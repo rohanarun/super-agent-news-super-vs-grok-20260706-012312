@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "TestingCatalog AI News",
+      "title": "xAI debuts Grok Voice Agent Builder for Enterprises",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUZ2R25FVHFfZkk0QTEwWXZNeXRJbE5LNnhSVi05RWdfZmFtTklUSXcxaHhWcEVOWlo5Rzh1R29acnVUdlJXaUUydGxSTVVCWkF0cEtsZkt5QTQ5OTVQWU9CbUxYUjRPTFpqNTlvcW1nN0RwclJHX212X1lpRWwyWE82Tld4Sk1Rb0ZVd0xpaVl0LWs"
+    },
+    {
+      "source": "Memeburn",
+      "title": "X launches MCP Server to bring AI tools closer to real-time social data",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeDNsNHhkSXNETDFDbU5rZUlkcEQwX1hDZDNBdnNnSEEyZVFKZVl4RmNlaEg1cExQc1MwZDJxanFBN3hJc2xJemlvc0NjNURKOFhVNWNLc3ZtbloyWTVJa1kyc2VsVFF4RXpuUXRPT3pMZDN2MDJOOGlLOFBEeXlVZjRMeHJJdHZtbG94MEx5emdfWE5vNUVCVg"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa"
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "title": "Introducing the Gemini Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs Grok|competitor_comparison|people comparing Super with Grok|2026-07-06T01:22:26.903866+00:00') -> choice(hero='comparison-lab', font='Cabinet Grotesk', components=['decision-matrix','workflow-playbook-timeline','implementation-checklist'], gsap=['card-stacking','hover-physics']). AIDA Check: hero attention, proof interest, motion desire, CTA action confirmed. Font Selection: Cabinet Grotesk only. Hero Math Verification: clamp headline spans 2\u20133 lines at 1120px max-width. Bento Density Verification: compare-grid uses grid-auto-flow: dense. GSAP Motion Selection: guarded card stacking + hover physics. Label Sweep & Button Check: black primary CTA, white secondary CTA verified.",
+  "generated_at": "2026-07-06T01:23:19.487487+00:00",
+  "headline": "Super vs Grok: personal AI agents compared for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, source-backed comparison of Super and Grok for people evaluating personal AI agents that can operate computers. Grok brings real-time social context and voice builders; Super focuses on durable computer-use workflows with a reusable computer-use cache that improves repeated execution."
+}
